@@ -20,7 +20,7 @@ as neither are needed in production :)
 (** = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+
 
 
 Credits:
